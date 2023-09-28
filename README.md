@@ -60,7 +60,7 @@ This repository includes three Jupyter notebooks, each serving a distinct purpos
     - imputation of missing data
     - removing redundant features
 
-### 2. `exploration_and_analysis.ipynb`
+### 2. `exploration_and_analysis.ipynb` ★ HIGHLIGHT OF THE PROJECT
 
 - **Purpose:** Explore and analyze your data using this notebook.
 - **Usage:** Utilize this notebook to gain insights, visualize trends, and uncover patterns in your dataset.
