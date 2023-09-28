@@ -55,13 +55,22 @@ This repository includes three Jupyter notebooks, each serving a distinct purpos
 
 - **Purpose:** This notebook is dedicated to data preprocessing and cleaning tasks.
 - **Usage:** Use it to clean, transform, and prepare your dataset for analysis and modeling.
-- **Instructions:** Follow the step-by-step instructions and code cells to perform data preprocessing tasks such as handling missing values, removing unnecessary features, performing chi-square tests and more.
+- **Instructions:** Follow the step-by-step instructions and code cells to perform data preprocessing tasks such as :
+    - handling missing values
+    - imputation of missing data
+    - removing redundant features
 
 ### 2. `exploration_and_analysis.ipynb`
 
 - **Purpose:** Explore and analyze your data using this notebook.
 - **Usage:** Utilize this notebook to gain insights, visualize trends, and uncover patterns in your dataset.
-- **Instructions:** Follow the notebook's instructions and code cells to create exploratory data visualizations, intepretation of trends in training variables, how they impact the waiting time of ER patients. Features such as seasonality, triage priority and 
+- **Instructions:** Follow the notebook's instructions and code cells to create exploratory data visualizations, intepretation of trends in training variables, how they impact the waiting time of ER patients. A few examples of the features analysed are:
+    - Patient waiting times
+    - Age of patients
+    - Triage Priority
+    - Diagnosis by season
+    - Admissions by season
+    - Day of the week
 
 ### 3. `modelling_and_evaluation.ipynb`
 
