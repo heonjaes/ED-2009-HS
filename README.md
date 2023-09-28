@@ -12,13 +12,7 @@ Through data analysis and modeling, we seek to:
 
 - [Overview](#overview)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Features](#features)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Content](#content)
 - [Contact](#contact)
 
 ## Installation
@@ -51,4 +45,37 @@ Through data analysis and modeling, we seek to:
 - seaborn
 - scipy
 - scikit-learn
-```
+
+
+## Content
+
+This repository includes three Jupyter notebooks, each serving a distinct purpose in the analysis of this project:
+
+### 1. `processing.ipynb`
+
+- **Purpose:** This notebook is dedicated to data preprocessing and cleaning tasks.
+- **Usage:** Use it to clean, transform, and prepare your dataset for analysis and modeling.
+- **Instructions:** Follow the step-by-step instructions and code cells to perform data preprocessing tasks such as handling missing values, encoding categorical variables, and scaling features.
+
+### 2. `exploration_and_analysis.ipynb`
+
+- **Purpose:** Explore and analyze your data using this notebook.
+- **Usage:** Utilize this notebook to gain insights, visualize trends, and uncover patterns in your dataset.
+- **Instructions:** Follow the notebook's instructions and code cells to create exploratory data visualizations, perform statistical analyses, and interpret the results.
+
+### 3. `modelling_and_evaluation.ipynb`
+
+- **Purpose:** Develop and evaluate machine learning models for your project.
+- **Usage:** Use this notebook for tasks related to model building, training, and evaluation.
+- **Instructions:** Follow the provided instructions and code cells to select, train, and evaluate models. Explore hyperparameter tuning and model evaluation metrics.
+
+Each notebook is designed to guide you through specific stages of your data analysis project. Feel free to follow the sequence or adapt the notebooks to your specific needs. Happy analyzing and modeling!
+
+
+## Contact
+
+For inquiries or feedback, reach out through the following channels:
+
+- Email: heonjae.shin00@mail.com
+- Linkedin: https://www.linkedin.com/in/heonjae-shin-933a4a208/
+- GitHub: [Your GitHub Profile](https://github.com/heonjaes)
