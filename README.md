@@ -51,19 +51,19 @@ Through data analysis and modeling, we seek to:
 
 This repository includes three Jupyter notebooks, each serving a distinct purpose in the analysis of this project:
 
-### 1. `processing.ipynb`
+### 1. `notebooks/processing.ipynb`
 
 - **Purpose:** This notebook is dedicated to data preprocessing and cleaning tasks.
 - **Usage:** Use it to clean, transform, and prepare your dataset for analysis and modeling.
 - **Instructions:** Follow the step-by-step instructions and code cells to perform data preprocessing tasks such as handling missing values, encoding categorical variables, and scaling features.
 
-### 2. `exploration_and_analysis.ipynb`
+### 2. `notebooks/exploration_and_analysis.ipynb`
 
 - **Purpose:** Explore and analyze your data using this notebook.
 - **Usage:** Utilize this notebook to gain insights, visualize trends, and uncover patterns in your dataset.
 - **Instructions:** Follow the notebook's instructions and code cells to create exploratory data visualizations, perform statistical analyses, and interpret the results.
 
-### 3. `modelling_and_evaluation.ipynb`
+### 3. `notebook/modelling_and_evaluation.ipynb`
 
 - **Purpose:** Develop and evaluate machine learning models for your project.
 - **Usage:** Use this notebook for tasks related to model building, training, and evaluation.
